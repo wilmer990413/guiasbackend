@@ -3,7 +3,7 @@
         {
             "id": 1,
             "username": "wilmercala",
-            "nommbre": "Wilmer Rodolfo",
+            "nombre": "Wilmer Rodolfo",
             "apellido": "Castro Ladino",
             "correo": "wilmer@gmail.com",
             "password": "12345"
